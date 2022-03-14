@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/text_manipulator_connector_ms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/text_manipulator_messaging_ms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/text_manipulator_persistence_ms" vcs="Git" />
+  </component>
+</project>
